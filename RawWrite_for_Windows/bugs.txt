@@ -1,0 +1,2 @@
+On some CDROM, it's doesn't work but i don't know why.
+Under vista if doesn't work with logic drive (like C, D...), select physical disk.
